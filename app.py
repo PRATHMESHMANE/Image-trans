@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Load an image
-image = cv2.imread('static/images/ram.jpg')
+image = cv2.imread('static/images/charlie.jpg')
 
 # Set the desired width and height for the output images
 output_width = 800
